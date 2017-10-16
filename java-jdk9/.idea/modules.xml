@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-jdk9.iml" filepath="$PROJECT_DIR$/java-jdk9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jdk9-service/java-jdk9-service.iml" filepath="$PROJECT_DIR$/java-jdk9-service/java-jdk9-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jdk9-umodule/java-jdk9-umodule.iml" filepath="$PROJECT_DIR$/java-jdk9-umodule/java-jdk9-umodule.iml" />
+    </modules>
+  </component>
+</project>
